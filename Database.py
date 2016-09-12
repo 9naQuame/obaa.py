@@ -1,1 +1,3 @@
 import dbo
+
+class Database:
